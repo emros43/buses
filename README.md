@@ -66,6 +66,8 @@ With their example reports:
 - output/morning-20-report/
 - output/morning-50-report/
 
+---
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
