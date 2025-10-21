@@ -1,0 +1,31 @@
+Top 30 bus stops near which a bus was going faster than 20.0 km/h:
+Al. Jerozolimskie: 516 times
+Pu³awska: 443 times
+Modliñska: 405 times
+Warszawska: 324 times
+Sobieskiego: 307 times
+Grochowska: 276 times
+al. Armii Ludowej: 258 times
+al. Stanów Zjednoczonych: 250 times
+al. Pi³sudskiego: 227 times
+¯wirki i Wigury: 222 times
+Radzymiñska: 222 times
+al. Krakowska: 211 times
+al. Wilanowska: 205 times
+Ostrobramska: 200 times
+Wa³ Miedzeszyñski: 194 times
+al. Prymasa Tysi¹clecia: 183 times
+Œwiatowida: 171 times
+Górczewska: 169 times
+Powstañców Œl¹skich: 163 times
+nan: 160 times
+Toruñska: 159 times
+Bora-Komorowskiego: 153 times
+Czerniakowska: 146 times
+Patriotów: 146 times
+Lazurowa: 139 times
+al. „Solidarnoœci”: 137 times
+Ostródzka: 131 times
+Al. Ujazdowskie: 129 times
+most £azienkowski: 129 times
+Jagielloñska: 125 times

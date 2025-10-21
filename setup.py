@@ -8,18 +8,19 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 setup(
     name='buses',
     version='1.0',
-    author='Emilia Rosla',
-    author_email="er438696@mimuw.edu.pl",
+    author='emros43',
     description='A bus tracking and analysis program',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/emros43/buses/',
     packages=find_packages(),
     install_requires=[
         'pandas',
         'numpy',
         'matplotlib',
         'requests',
+        'python-dotenv',
+        "folium",
     ],
     classifiers=[
         'Programming Language :: Python :: 3',

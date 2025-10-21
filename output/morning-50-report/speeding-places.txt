@@ -1,0 +1,21 @@
+Top 20 bus stops near which a bus was going faster than 50 km/h:
+Al. Jerozolimskie: 24 times
+Pu³awska: 23 times
+Czecha: 23 times
+Modliñska: 19 times
+Toruñska: 19 times
+Ostrobramska: 14 times
+Przyczó³kowa: 14 times
+al. Becka: 14 times
+GwiaŸdzista: 14 times
+al. Krakowska: 13 times
+Surowieckiego: 12 times
+Trakt Brzeski: 11 times
+al. Prymasa Tysi¹clecia: 11 times
+Wybrze¿e Gdyñskie: 10 times
+nan: 10 times
+Gwintowa: 9 times
+Jagielloñska: 9 times
+Wa³ Miedzeszyñski: 9 times
+most £azienkowski: 9 times
+al. Pi³sudskiego: 8 times

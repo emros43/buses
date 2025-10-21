@@ -1,0 +1,10 @@
+.env
+.env.local
+
+/data/*/
+/output/*
+
+!data/morning/
+!data/evening/
+!output/morning-20-report/
+!output/morning-50-report/
